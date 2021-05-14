@@ -1,4 +1,4 @@
-### Olá, sou Kauan Manoel 👋!
+### Olá, me chamo Kauan Manoel 👋!
 
 ## 
 
@@ -10,23 +10,23 @@
 ## Contatos
 
 <a href="https://www.linkedin.com/in/kauanmanoel/" target="_blank">
-<img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
+<img align="center" alt="" height="30" width="40" target="_blank" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
 </a>
 
 <a href="https://twitter.com/KauanWade" target="_blank">
-<img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg">
+<img align="center" alt="" height="30" width="40" target="_blank" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg">
 </a>
 
 <a href="https://www.facebook.com/kauan.manoel.370/" target="_blank">
-<img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg">
+<img align="center" alt="" height="30" width="40" target="_blank" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg">
 </a>
 
 <a href="https://www.instagram.com/kauanwade9/?hl=pt-br" target="_blank">
-<img align="center" alt="" height="30" width="40" src="https://www.flaticon.com/svg/vstatic/svg/174/174855.svg?token=exp=1620961410~hmac=fa6252f420e294b67ce0d152d0b38303">
+<img align="center" alt="" height="30" width="40" target="_blank" src="https://www.flaticon.com/svg/vstatic/svg/174/174855.svg?token=exp=1620961410~hmac=fa6252f420e294b67ce0d152d0b38303">
 </a>
 
 <a href="https://www.twitch.tv/kauanwade9" target="_blank">
-<img align="center" alt="" height="30" width="30" src="https://user-images.githubusercontent.com/70704761/118215124-57951d80-b447-11eb-8bea-59bf2a7721ff.png">
+<img align="center" alt="" height="30" width="30" target="_blank" src="https://user-images.githubusercontent.com/70704761/118215124-57951d80-b447-11eb-8bea-59bf2a7721ff.png">
 </a>
 
 ## Conhecimentos:
