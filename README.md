@@ -63,3 +63,10 @@
 
 - <img align="center" alt="react" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> <img align="center" alt="node" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"> <img align="center" alt="mysql" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"> <img align="center" alt="mongodb" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
 
+### Atividade:
+
+<div style="display:inline-block"> 
+  <a href="https://github.com/KauanManoel"></a>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=KauanManoel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanManoel&layout=compact&langs_count=16&theme=dracula"/>
+</div>
