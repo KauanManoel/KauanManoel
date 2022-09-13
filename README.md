@@ -55,6 +55,8 @@
 - <img align="center" alt="mysql" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"> Conhecimento basic/intermediary.
 
 ### Cloud:
+
+- <img align="center" alt="aws" heigth="30" width="40" src="https://dnalytics.com/wp-content/uploads/1999/06/icon-cloud-aws.png"> Conhecimento advanced.
 - <img align="center" alt="aws" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg"> Conhecimento intermediary.
 - <img align="center" alt="aws" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg"> Estudos iniciados com enfoque em DevOps e UpCloud.
 
