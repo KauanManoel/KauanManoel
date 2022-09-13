@@ -22,7 +22,7 @@
 </a>
 
 <a href="https://www.instagram.com/kauanwade9/?hl=pt-br" target="_blank">
-<img align="center" alt="" height="30" width="40" target="_blank" src="https://www.flaticon.com/svg/vstatic/svg/174/174855.svg?token=exp=1620961410~hmac=fa6252f420e294b67ce0d152d0b38303">
+<img align="center" alt="" height="30" width="40" target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/600px-Instagram-Icon.png">
 </a>
 
 <a href="https://www.twitch.tv/kauanwade9" target="_blank">
