@@ -5,7 +5,7 @@
 - :checkered_flag: Moro em São Paulo, :brazil:
 - :newspaper: Engenharia e desenvolvimento de software
 - :computer: Estudande de Analise e desenvolvimento de software
-- :computer: Software Engineer in Itau Unibanco S/A
+- :computer: Software Engineer in Sinctec sistemas
 
 ## Contatos
 
