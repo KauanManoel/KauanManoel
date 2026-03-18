@@ -34,7 +34,7 @@
 ### Back-end:
 
 - <img align="center" alt="C" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> Conhecimento consolidados.
-- <img align="center" alt="C" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">  Conhecimento intermediary/advanced.
+- <img align="center" alt="C" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">  Conhecimento advanced.
 - <img align="center" alt="Java" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> Conhecimento intermediary.
 - <img align="center" alt="Python" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> Conhecimento intermediary/advanced.
 - <img align="center" alt="Python" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"> Conhecimento intermediary.
